@@ -1,3 +1,8 @@
+/***********************************************************
+ * Codemaster111								   
+ * USACO December 2019 Bronze #3 - Livestock Lineup
+ * Completion Status: 10/10		   
+ ***********************************************************/
 #include <bits/stdc++.h>
 using namespace std;
 
